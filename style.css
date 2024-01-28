@@ -43,6 +43,13 @@ h2 span {
 .navbar-brand,.nav-link:hover{
     border-bottom:2px solid red;
 }
+.project-head{
+    cursor: pointer;
+
+}
+.card-body{
+    margin-top: 3rem;
+}
 .lastfoot{
     display: flex;
     justify-content: center;
