@@ -74,6 +74,11 @@ h2 span {
     font-size: 2rem;
     font-weight: 500;
 }
+/* .title-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
 .row{
    background-color: darkseagreen;
 }
